@@ -13,7 +13,6 @@ Share a Place  is a simple web application that display user's current location 
 
   - Click on the 'Get Current Location' button and give permission for the location when prompt by browser.
 
-
   - Your location will be displayed on the map, and a shareable link will be generated.
 
   - Click the 'Share Place' button to copy the link and share it with anyone.
