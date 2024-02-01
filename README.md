@@ -1,7 +1,8 @@
 # Share a Place
 
 Share a Place  is a simple web application that display user's current location or specific location based on user input in a map. It also utilize clipboard API that able the user to copy the address by only clicking button and share the location to others. This application utilize JavaScript and OpenLayers API and OpenStreetMap.
-#### Web Link: https://share-my-place-bb9f9.web.app/
+
+### Web Link: [Live Website](https://share-my-place-bb9f9.web.app/)
 
 |  Get Current Location                             |  Find Place                               |
 |-----------------------------------------|-----------------------------------------|
